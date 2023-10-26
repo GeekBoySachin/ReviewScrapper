@@ -32,5 +32,5 @@ six
 soupsieve==2.0.1
 urllib3==1.25.11
 webdriver-manager==3.3.0
-Werkzeug==1.0.1
+Werkzeug==3.0.1
 wincertstore==0.2
